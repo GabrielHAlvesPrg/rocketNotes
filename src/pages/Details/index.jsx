@@ -5,7 +5,7 @@ import { useParams, useNavigate } from 'react-router-dom'; //serve para buscar o
 import { api } from '../../services/api';
 
 import { Tag } from '../../components/Tag';
-import { Button } from '../../components/button';
+import { Button } from '../../components/Button';
 import { Header } from '../../components/Header';
 import { Section } from '../../components/Section';
 import { ButtonText } from '../../components/ButtonText';
