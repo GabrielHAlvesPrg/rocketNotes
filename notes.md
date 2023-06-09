@@ -30,6 +30,8 @@ https://styled-components.com/
 
 * npm install --save styled-components
 
+obs: É preciso instalar uma extensão do vscode chamada "vscode-styled-components" para que tenha o auto-completar ao digitar css em um arquivo JavaScript.
+
 ## React Icons 
 https://react-icons.github.io/react-icons
 
