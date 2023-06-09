@@ -44,3 +44,8 @@ https://react-icons.github.io/react-icons
 link: https://v5.reactrouter.com/web/guides/quick-start
 
 * npm install react-router-dom
+
+# Netlify
+Site que hospeda o front-end
+
+https://www.netlify.com/
