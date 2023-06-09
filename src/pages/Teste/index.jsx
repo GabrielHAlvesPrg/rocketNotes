@@ -1,4 +1,3 @@
-//.
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FiPlus, FiSearch } from 'react-icons/fi';
